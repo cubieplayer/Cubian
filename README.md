@@ -1,7 +1,7 @@
-[中文版](https://github.com/cubieplayer/cubian/blob/doc/%E8%AF%BB%E6%88%91.md)  
+[中文版](https://github.com/cubieplayer/Cubian/blob/doc/%E8%AF%BB%E6%88%91.md)  
 
 **Cubian** is a Linux operating system designed for [Cubieboard](http://cubieboard.org/) based on [Debian wheezy](http://www.debian.org/News/2013/20130504).  
-[Cubian](http://cubieplayer.github.io/cubian/index.html) is the minimal version with customization which include but not limited to:
+[Cubian](http://cubieplayer.github.io/Cubian/index.html) is the minimal version with customization which include but not limited to:
 
 1. Cubieboard bootup Logo
 2. Build with the latest Kernel (version 3.4.29)
@@ -22,10 +22,10 @@ If you find my work useful and you want to encourage the development of more fre
 
 Quick Links
 ----
-1. [Install Cubian](https://github.com/cubieplayer/cubian/wiki/Install-Cubian)
-1. [Use Cubian](https://github.com/cubieplayer/cubian/wiki/Use-Cubian)
+1. [Install Cubian](https://github.com/cubieplayer/Cubian/wiki/Install-Cubian)
+1. [Use Cubian](https://github.com/cubieplayer/Cubian/wiki/Use-Cubian)
 
 
 License
 ----
-see [LICENSE](https://github.com/cubieplayer/cubian/blob/doc/LICENSE)
+see [LICENSE](https://github.com/cubieplayer/Cubian/blob/doc/LICENSE)
