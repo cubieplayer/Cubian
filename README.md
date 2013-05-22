@@ -1,0 +1,4 @@
+CubianX
+=======
+
+Linux for Cubieboard
