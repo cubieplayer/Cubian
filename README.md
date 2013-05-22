@@ -23,7 +23,7 @@ If you find my work useful and you want to encourage the development of more fre
 Quick Links
 ----
 1. [Install Cubian](https://github.com/cubieplayer/Cubian/wiki/Install-Cubian)
-1. [Use Cubian](https://github.com/cubieplayer/Cubian/wiki/Get-start-Cubian)
+1. [Get started Cubian](https://github.com/cubieplayer/Cubian/wiki/Get-started-Cubian)
 
 
 License
