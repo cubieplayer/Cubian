@@ -1,0 +1,7 @@
+[2013.6.3] r2
+* synchronize kernel from sunxi
+* compile kernel with iptable,netfilter,IPv6 Support
+* defaut root partition size changed to approximately 3GB(SD-card should at least 4GB)
+
+[2013.5.23] r1
+initial version
