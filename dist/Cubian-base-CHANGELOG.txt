@@ -1,6 +1,11 @@
-[2013.x.x] r3
+[2013.6.25] r3
++ alsa sound driver
++ compiled NFS server in kernel
+* compiled USB Serial Converter driver
+* improve starting speed
 * add uEnv.txt for nand installation
-* config network lookback interface by default
+* disable swap file for nand installation(it may reduce the nand's lifetime)
+* upgrade kernel from 3.4.29 to 3.4.43
 
 [2013.6.3] r2
 * synchronize kernel from sunxi
