@@ -4,7 +4,7 @@
 [Cubian](http://cubieplayer.github.io/Cubian/index.html) is the minimal version with customization which include but not limited to:
 
 1. Cubieboard bootup Logo
-2. Build with the latest stable Kernel (version 3.4.29)
+2. Build with the latest stable Kernel (version 3.4.43)
 3. Include RTL8188EU driver (mercury mw150us use this chip)
 4. The easiest NAND installation ever
 5. Onboard LEDS show the IP address through [Morse code](http://en.wikipedia.org/wiki/Morse_code) (you don't need a HDMI screen neither USB-TTL cable and Router's admin privileges to start play cubieboard)
