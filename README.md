@@ -9,7 +9,7 @@
 4. The easiest NAND installation ever
 5. Onboard LEDS show the IP address through [Morse code](http://en.wikipedia.org/wiki/Morse_code) (you don't need a HDMI screen neither USB-TTL cable and Router's admin privileges to start play cubieboard)
 6. Network and System status indicator using onboard LED
-7. Preconfigured swap area for system installed on SD-card or NAND (increase the amount of available memory)
+7. Preconfigured swap area (increase the amount of available memory)
 8. Basic SSH security config
 9. Battery included (various utilities were pre-installed like VIM etc.)  
 10. Synchronize clock with internet time servers automaticlly
@@ -22,6 +22,7 @@ If you find my work useful and you want to encourage the development of more fre
 
 Quick Links
 ----
+1. [Wiki](https://github.com/cubieplayer/Cubian/wiki)
 1. [Install Cubian](https://github.com/cubieplayer/Cubian/wiki/Install-Cubian)
 1. [Get started Cubian](https://github.com/cubieplayer/Cubian/wiki/Get-started-Cubian)
 1. [Download Cubian](http://cubieplayer.github.io/Cubian/dist/)
