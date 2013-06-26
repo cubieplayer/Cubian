@@ -1,4 +1,5 @@
-[2013.6.25] r3
+[2013.6.27] r3
++ full gpio support (SD card only)
 + alsa sound driver
 + compiled NFS server in kernel
 * compiled USB Serial Converter driver
