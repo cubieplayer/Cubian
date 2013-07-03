@@ -13,7 +13,7 @@
 8. Basic SSH security config
 9. Battery included (various utilities were pre-installed like VIM etc.)  
 10. Synchronize clock with internet time servers automaticlly
-11. full GPIO support
+11. Full GPIO support
 
 <!--There might be a server version in the future which will be based on this version.-->
 ![Cubian screenshot](http://cubieplayer.github.io/static_files/images/sysinfo.jpg)
