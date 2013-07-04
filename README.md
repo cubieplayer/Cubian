@@ -26,6 +26,7 @@ Quick Links
 1. [Wiki](https://github.com/cubieplayer/Cubian/wiki)
 1. [Install Cubian](https://github.com/cubieplayer/Cubian/wiki/Install-Cubian)
 1. [Get started Cubian](https://github.com/cubieplayer/Cubian/wiki/Get-started-Cubian)
+1. [GPIO Introduction](https://github.com/cubieplayer/Cubian/wiki/GPIO-Introduction)
 1. [Download Cubian](http://cubieplayer.github.io/Cubian/dist/)
 
 License
