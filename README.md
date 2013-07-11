@@ -4,16 +4,14 @@
 [Cubian](http://cubian.org) is the minimal version with customization which include but not limited to:
 
 1. Cubieboard bootup Logo
-2. Build with the latest stable Kernel (version 3.4.43)
-3. Include RTL8188EU driver (mercury mw150us use this chip)
-4. The easiest NAND installation ever
-5. Onboard LEDS show the IP address through [Morse code](http://en.wikipedia.org/wiki/Morse_code) (you don't need a HDMI screen neither USB-TTL cable and Router's admin privileges to start play cubieboard)
-6. Network and System status indicator using onboard LED
-7. Preconfigured swap area (increase the amount of available memory)
-8. Basic SSH security config
-9. Battery included (various utilities were pre-installed like VIM etc.)  
-10. Synchronize clock with internet time servers automaticlly
-11. Full GPIO support
+1. Build with the latest stable Kernel (version 3.4.43) for cubieboard1
+1. Support NAND installation
+1. Onboard LEDS show the IP address through [Morse code](http://en.wikipedia.org/wiki/Morse_code) (you don't need a HDMI screen neither USB-TTL cable and Router's admin privileges to start play cubieboard)
+1. [Full GPIO support](https://github.com/cubieplayer/Cubian/wiki/GPIO-Introduction)
+1. [Well documented](https://github.com/cubieplayer/Cubian/wiki/index)
+1. Basic SSH security config
+1. Battery included (various utilities were pre-installed like VIM,perl etc.)  
+1. Synchronize clock with internet time servers automaticlly
 
 <!--There might be a server version in the future which will be based on this version.-->
 ![Cubian screenshot](http://cubieplayer.github.io/static_files/images/sysinfo.jpg)
