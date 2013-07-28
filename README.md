@@ -1,4 +1,4 @@
-[website](http://cubian.org/)  
+[Website](http://cubian.org/)  
 
 **Cubian** is a Linux operating system designed for [Cubieboard](http://cubieboard.org/) based on [Debian wheezy](http://www.debian.org/News/2013/20130504).  
 [Cubian](http://cubian.org) is the minimal version with customization which include but not limited to:
@@ -21,7 +21,7 @@ If you find my work useful and you want to encourage the development of more fre
 
 Quick Links
 ----
-1. [Wiki](https://github.com/cubieplayer/Cubian/wiki)
+1. [Wiki](https://github.com/cubieplayer/Cubian/wiki/Wiki-Index)
 1. [Install Cubian](https://github.com/cubieplayer/Cubian/wiki/Install-Cubian)
 1. [Get started Cubian](https://github.com/cubieplayer/Cubian/wiki/Get-started-Cubian)
 1. [GPIO Introduction](https://github.com/cubieplayer/Cubian/wiki/GPIO-Introduction)
