@@ -1,4 +1,4 @@
-[中文版](https://github.com/cubieplayer/Cubian/blob/doc/%E8%AF%BB%E6%88%91.md)  
+[website](http://cubian.org/)  
 
 **Cubian** is a Linux operating system designed for [Cubieboard](http://cubieboard.org/) based on [Debian wheezy](http://www.debian.org/News/2013/20130504).  
 [Cubian](http://cubian.org) is the minimal version with customization which include but not limited to:
