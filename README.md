@@ -8,7 +8,7 @@
 1. Support NAND installation
 1. Onboard LEDS show the IP address through [Morse code](http://en.wikipedia.org/wiki/Morse_code) (you don't need a HDMI screen neither USB-TTL cable and Router's admin privileges to start play cubieboard)
 1. [Full GPIO support](https://github.com/cubieplayer/Cubian/wiki/GPIO-Introduction)
-1. [Well documented](https://github.com/cubieplayer/Cubian/wiki/index)
+1. [Well documented](https://github.com/cubieplayer/Cubian/wiki/Wiki-Index)
 1. Basic SSH security config
 1. Battery included (various utilities were pre-installed like VIM,perl etc.)  
 1. Synchronize clock with internet time servers automaticlly
