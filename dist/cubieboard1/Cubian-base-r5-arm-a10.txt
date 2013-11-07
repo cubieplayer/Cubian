@@ -1,0 +1,4 @@
+Download URLs:
+1. http://ubuntuone.com/3COtL8PGm0ry9xIOpGSydT
+2. http://dl.cubieboard.org/software/a10-cubieboard/cubian/Cubian-base-r5-arm-a10.img.7z
+3. http://mirror.symnds.com/software/cubie/Cubian-base-r5-arm-a10.img.7z
