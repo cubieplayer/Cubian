@@ -1,2 +1,3 @@
 Download URLs:
 1. http://ubuntuone.com/60a6FWcHoIENXAUvBd4Ezw
+2. https://www.dropbox.com/s/rdr2wvhgsnezmju/Cubian-base-r7-arm-a10.img.7z

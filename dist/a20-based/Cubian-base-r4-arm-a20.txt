@@ -1,2 +1,3 @@
 Download URLs:
 1. http://ubuntuone.com/0e80tfPLe63cUiDK6d6ZYA
+2. https://www.dropbox.com/s/v7jfj1ftgc0ybic/Cubian-base-r4-arm-a20.img.7z

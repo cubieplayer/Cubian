@@ -2,3 +2,4 @@ Download URLs:
 1. http://ubuntuone.com/7hJEOzmP870aOnsFSxlDP9
 2. http://dl.cubieboard.org/software/a20-cubieboard/cubian/Cubian-base-r2-arm-a20.img.7z
 3. http://mirror.symnds.com/software/cubie/Cubian-base-r2-arm-a20.img.7z
+4. https://www.dropbox.com/s/6mc8bbba3qrgecs/Cubian-base-r2-arm-a20.img.7z
